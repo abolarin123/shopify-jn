@@ -1,0 +1,83 @@
+          <ul class="menu_items">
+            <div class="menu_title menu_dahsboard"></div>
+            <!-- duplicate or remove this li tag if you want to add or remove navlink with submenu -->
+            <!-- start -->
+            <li class="item">
+              <div href="#" class="nav_link submenu_item">
+                <span class="navlink_icon">
+                  <i class="bx bx-home-alt"></i>
+                </span>
+                <span class="navlink">Home</span>
+                <i class="bx bx-chevron-right arrow-left"></i>
+              </div>
+              <ul class="menu_items submenu">
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+              </ul>
+            </li>
+            <!-- end -->
+            <!-- duplicate this li tag if you want to add or remove  navlink with submenu -->
+            <!-- start -->
+            <li class="item">
+              <div href="#" class="nav_link submenu_item">
+                <span class="navlink_icon">
+                  <i class="bx bx-grid-alt"></i>
+                </span>
+                <span class="navlink">Overview</span>
+                <i class="bx bx-chevron-right arrow-left"></i>
+              </div>
+              <ul class="menu_items submenu">
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+                <a href="#" class="nav_link sublink">Nav Sub Link</a>
+              </ul>
+            </li>
+            <!-- end -->
+          </ul>
+
+
+
+                    <ul class="menu_items">
+            <div class="menu_title menu_"></div>
+            <li class="item">
+              <a href="#" class="nav_link">
+                <span class="navlink_icon">
+                  <span class="material-symbols-outlined">
+                    sports_esports
+                    </span>
+                </span>
+                <span class="navlink">Gaming</span>
+              </a>
+            </li>
+            <li class="item">
+              <a href="#" class="nav_link">
+                <span class="navlink_icon">
+                  <span class="material-symbols-outlined">
+                    piano
+                    </span>
+                </span>
+                <span class="navlink">Musicial Instruments</span>
+              </a>
+            </li>
+            <li class="item">
+              <a href="#" class="nav_link">
+                <span class="navlink_icon">
+                  <span class="material-symbols-outlined">
+                    pending
+                    </span>
+                </span>
+                <span class="navlink">Other Categories</span>
+              </a>
+            </li>
+            <li class="item">
+              <a href="#" class="nav_link">
+                <span class="navlink_icon">
+                  <i class="bx bx-layer"></i>
+                </span>
+                <span class="navlink">Features</span>
+              </a>
+            </li>
+          </ul>
